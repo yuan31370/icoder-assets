@@ -1,0 +1,15 @@
+{
+  "name": "iCoder AI IDE",
+  "short_name": "iCoder",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E1117",
+  "theme_color": "#FF4B4B",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/你的帳號/你的專案/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
