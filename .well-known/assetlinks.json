@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yuan31370.icoder",
+      "sha256_cert_fingerprints": [
+        "47:98:19:1B:1B:60:9C:FB:F6:D4:5B:07:61:99:7F:2D:FF:39:4A:E5:63:D2:6A:78:E7:EB:0A:96:64:35:50:F9"
+      ]
+    }
+  }
+]
